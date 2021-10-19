@@ -1,0 +1,1 @@
+This file was added to GitHub using only the command line -- it was a challenge for my Computer Science Club!
